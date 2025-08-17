@@ -3,7 +3,7 @@
 #include <math.h>
 #include <time.h>
 
-#define N 3           // vector size
+#define N 100000           // vector size
 #define MAX_VALUE 10   
 
 void vectorSum(int input1[N], int input2[N], int output[N]) {
